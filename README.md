@@ -1,5 +1,5 @@
 # kanji_images
-PNGs and stroke order GIFs of most kanji
+PNGs and stroke order GIFs of most kanji.
 
 The files are named with the unicode code point of the character hex. For example you can get the png file name for 犬 like this in JavaScript:
 
